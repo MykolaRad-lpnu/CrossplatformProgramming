@@ -1,0 +1,427 @@
+[ {
+  "firstName" : "РњРёРєРѕР»Р°",
+  "lastName" : "Р“СѓС‚",
+  "group" : "SI-111",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 96.5
+  }, {
+    "subject" : "Math",
+    "value" : 76.2
+  }, {
+    "subject" : "Physics",
+    "value" : 77.3
+  }, {
+    "subject" : "RPZ",
+    "value" : 53.9
+  }, {
+    "subject" : "KDM",
+    "value" : 86.6
+  } ]
+}, {
+  "firstName" : "РќР°Р·Р°СЂ",
+  "lastName" : "РЈСЃС‚СЂРёС†СЊРєРёР№",
+  "group" : "OM-113",
+  "grades" : [ {
+    "subject" : "Chemistry",
+    "value" : 59.6
+  }, {
+    "subject" : "PI",
+    "value" : 57.8
+  }, {
+    "subject" : "Physiology",
+    "value" : 91.2
+  }, {
+    "subject" : "Anatomy",
+    "value" : 90.8
+  }, {
+    "subject" : "First Aid",
+    "value" : 52.8
+  } ]
+}, {
+  "firstName" : "РћР»СЏ",
+  "lastName" : "Р‘РµСЂРµР·РµС†СЊРєР°",
+  "group" : "PK-112",
+  "grades" : [ {
+    "subject" : "German",
+    "value" : 73.6
+  }, {
+    "subject" : "Polish",
+    "value" : 55.3
+  }, {
+    "subject" : "French",
+    "value" : 87.3
+  }, {
+    "subject" : "English",
+    "value" : 56.5
+  }, {
+    "subject" : "Chinese",
+    "value" : 94.7
+  } ]
+}, {
+  "firstName" : "Р’Р°СЃРёР»СЊ",
+  "lastName" : "Р‘С–Р»РµРЅСЃСЊРєРёР№",
+  "group" : "SI-111",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 61.9
+  }, {
+    "subject" : "Math",
+    "value" : 69.9
+  }, {
+    "subject" : "Physics",
+    "value" : 59.9
+  }, {
+    "subject" : "RPZ",
+    "value" : 63.5
+  }, {
+    "subject" : "KDM",
+    "value" : 76.8
+  } ]
+}, {
+  "firstName" : "РџР°РІР»Рѕ",
+  "lastName" : "Р’С–С‚РєРѕРІ",
+  "group" : "PK-112",
+  "grades" : [ {
+    "subject" : "German",
+    "value" : 68.0
+  }, {
+    "subject" : "Polish",
+    "value" : 79.2
+  }, {
+    "subject" : "French",
+    "value" : 66.2
+  }, {
+    "subject" : "English",
+    "value" : 75.3
+  }, {
+    "subject" : "Chinese",
+    "value" : 71.3
+  } ]
+}, {
+  "firstName" : "РќР°РґСЏ",
+  "lastName" : "Р’Р°Р»С–Рє",
+  "group" : "OM-113",
+  "grades" : [ {
+    "subject" : "Chemistry",
+    "value" : 68.4
+  }, {
+    "subject" : "PI",
+    "value" : 63.9
+  }, {
+    "subject" : "Physiology",
+    "value" : 94.1
+  }, {
+    "subject" : "Anatomy",
+    "value" : 66.1
+  }, {
+    "subject" : "First Aid",
+    "value" : 50.9
+  } ]
+}, {
+  "firstName" : "РљР°С‚СЏ",
+  "lastName" : "Р”РѕРјР±СЂРёС‡",
+  "group" : "SI-111",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 64.6
+  }, {
+    "subject" : "Math",
+    "value" : 67.2
+  }, {
+    "subject" : "Physics",
+    "value" : 51.7
+  }, {
+    "subject" : "RPZ",
+    "value" : 82.0
+  }, {
+    "subject" : "KDM",
+    "value" : 57.2
+  } ]
+}, {
+  "firstName" : "Р”РµРЅРёСЃ",
+  "lastName" : "РЇСЂРјРѕР»РѕРІСЃСЊРєРёР№",
+  "group" : "OM-113",
+  "grades" : [ {
+    "subject" : "Chemistry",
+    "value" : 54.0
+  }, {
+    "subject" : "PI",
+    "value" : 82.0
+  }, {
+    "subject" : "Physiology",
+    "value" : 90.4
+  }, {
+    "subject" : "Anatomy",
+    "value" : 55.1
+  }, {
+    "subject" : "First Aid",
+    "value" : 91.4
+  } ]
+}, {
+  "firstName" : "Р РѕРјР°РЅ",
+  "lastName" : "РҐРѕР»РѕРґ",
+  "group" : "PK-112",
+  "grades" : [ {
+    "subject" : "German",
+    "value" : 65.3
+  }, {
+    "subject" : "Polish",
+    "value" : 59.5
+  }, {
+    "subject" : "French",
+    "value" : 61.2
+  }, {
+    "subject" : "English",
+    "value" : 67.3
+  }, {
+    "subject" : "Chinese",
+    "value" : 62.6
+  } ]
+}, {
+  "firstName" : "РќР°Р·Р°СЂ",
+  "lastName" : "РљРѕСЃРёРє",
+  "group" : "SI-111",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 98.8
+  }, {
+    "subject" : "Math",
+    "value" : 73.2
+  }, {
+    "subject" : "Physics",
+    "value" : 88.3
+  }, {
+    "subject" : "RPZ",
+    "value" : 89.8
+  }, {
+    "subject" : "KDM",
+    "value" : 74.8
+  } ]
+}, {
+  "firstName" : "Р®Р»СЏ",
+  "lastName" : "РџР°РІР»СѓСЃС–РІ",
+  "group" : "PK-112",
+  "grades" : [ {
+    "subject" : "German",
+    "value" : 88.1
+  }, {
+    "subject" : "Polish",
+    "value" : 88.3
+  }, {
+    "subject" : "French",
+    "value" : 61.1
+  }, {
+    "subject" : "English",
+    "value" : 63.3
+  }, {
+    "subject" : "Chinese",
+    "value" : 53.0
+  } ]
+}, {
+  "firstName" : "РќР°С‚Р°Р»СЏ",
+  "lastName" : "Р§РѕРїРєРѕ",
+  "group" : "OM-113",
+  "grades" : [ {
+    "subject" : "Chemistry",
+    "value" : 97.9
+  }, {
+    "subject" : "PI",
+    "value" : 61.3
+  }, {
+    "subject" : "Physiology",
+    "value" : 52.4
+  }, {
+    "subject" : "Anatomy",
+    "value" : 76.0
+  }, {
+    "subject" : "First Aid",
+    "value" : 74.1
+  } ]
+}, {
+  "firstName" : "Р’С–РєР°",
+  "lastName" : "Р“С–РґРµР№",
+  "group" : "SI-111",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 87.9
+  }, {
+    "subject" : "Math",
+    "value" : 77.1
+  }, {
+    "subject" : "Physics",
+    "value" : 75.3
+  }, {
+    "subject" : "RPZ",
+    "value" : 66.8
+  }, {
+    "subject" : "KDM",
+    "value" : 85.7
+  } ]
+}, {
+  "firstName" : "Р СѓСЃР»Р°РЅ",
+  "lastName" : "РљРѕРІР°Р»СЊС‡СѓРє",
+  "group" : "OM-113",
+  "grades" : [ {
+    "subject" : "Chemistry",
+    "value" : 84.5
+  }, {
+    "subject" : "PI",
+    "value" : 93.6
+  }, {
+    "subject" : "Physiology",
+    "value" : 79.6
+  }, {
+    "subject" : "Anatomy",
+    "value" : 79.1
+  }, {
+    "subject" : "First Aid",
+    "value" : 82.1
+  } ]
+}, {
+  "firstName" : "РҐСЂРёСЃС‚РёРЅР°",
+  "lastName" : "РљР°СЂРІР°С†СЊРєР°",
+  "group" : "PK-112",
+  "grades" : [ {
+    "subject" : "German",
+    "value" : 93.4
+  }, {
+    "subject" : "Polish",
+    "value" : 62.3
+  }, {
+    "subject" : "French",
+    "value" : 62.0
+  }, {
+    "subject" : "English",
+    "value" : 94.4
+  }, {
+    "subject" : "Chinese",
+    "value" : 78.4
+  } ]
+}, {
+  "firstName" : "John",
+  "lastName" : "Adams",
+  "group" : "SI-111",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 59.1
+  }, {
+    "subject" : "Math",
+    "value" : 73.0
+  }, {
+    "subject" : "Physics",
+    "value" : 59.5
+  }, {
+    "subject" : "RPZ",
+    "value" : 52.0
+  }, {
+    "subject" : "KDM",
+    "value" : 67.8
+  } ],
+  "workplace" : "workplace1"
+}, {
+  "firstName" : "Nick",
+  "lastName" : "Smith",
+  "group" : "SI-111",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 61.0
+  }, {
+    "subject" : "Math",
+    "value" : 73.9
+  }, {
+    "subject" : "Physics",
+    "value" : 81.4
+  }, {
+    "subject" : "RPZ",
+    "value" : 53.5
+  }, {
+    "subject" : "KDM",
+    "value" : 93.9
+  } ],
+  "workplace" : "workplace2"
+}, {
+  "firstName" : "Thom",
+  "lastName" : "Johnson",
+  "group" : "SI-111",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 50.1
+  }, {
+    "subject" : "Math",
+    "value" : 80.0
+  }, {
+    "subject" : "Physics",
+    "value" : 98.7
+  }, {
+    "subject" : "RPZ",
+    "value" : 69.2
+  }, {
+    "subject" : "KDM",
+    "value" : 86.5
+  } ],
+  "workplace" : "workplace3"
+}, {
+  "firstName" : "Amanda",
+  "lastName" : "Jonse",
+  "group" : "PK-112",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 56.1
+  }, {
+    "subject" : "Math",
+    "value" : 59.0
+  }, {
+    "subject" : "Physics",
+    "value" : 60.2
+  }, {
+    "subject" : "RPZ",
+    "value" : 53.4
+  }, {
+    "subject" : "KDM",
+    "value" : 99.4
+  } ],
+  "workplace" : "workplace4"
+}, {
+  "firstName" : "Victoria",
+  "lastName" : "Williams",
+  "group" : "PK-112",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 87.8
+  }, {
+    "subject" : "Math",
+    "value" : 66.8
+  }, {
+    "subject" : "Physics",
+    "value" : 89.9
+  }, {
+    "subject" : "RPZ",
+    "value" : 88.6
+  }, {
+    "subject" : "KDM",
+    "value" : 82.6
+  } ],
+  "workplace" : "workplace5"
+}, {
+  "firstName" : "Emma",
+  "lastName" : "Brown",
+  "group" : "OM-113",
+  "grades" : [ {
+    "subject" : "OOP",
+    "value" : 91.4
+  }, {
+    "subject" : "Math",
+    "value" : 64.2
+  }, {
+    "subject" : "Physics",
+    "value" : 55.3
+  }, {
+    "subject" : "RPZ",
+    "value" : 53.1
+  }, {
+    "subject" : "KDM",
+    "value" : 74.6
+  } ],
+  "workplace" : "workplace6"
+} ]

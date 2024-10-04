@@ -1,0 +1,42 @@
+Name: Микола Гут, Group: SI-111, Grades: Subject: OOP, Grade: 86.4; Subject: Math, Grade: 83.0; Subject: Physics, Grade: 66.5; Subject: RPZ, Grade: 54.0; Subject: KDM, Grade: 51.6; 
+
+Name: Назар Устрицький, Group: OM-113, Grades: Subject: Chemistry, Grade: 85.4; Subject: PI, Grade: 92.5; Subject: Physiology, Grade: 69.7; Subject: Anatomy, Grade: 76.6; Subject: First Aid, Grade: 88.6; 
+
+Name: Оля Березецька, Group: PK-112, Grades: Subject: German, Grade: 67.4; Subject: Polish, Grade: 93.1; Subject: French, Grade: 75.7; Subject: English, Grade: 85.3; Subject: Chinese, Grade: 52.9; 
+
+Name: Василь Біленський, Group: SI-111, Grades: Subject: OOP, Grade: 62.1; Subject: Math, Grade: 93.5; Subject: Math, Grade: 83.0; Subject: Physics, Grade: 57.1; Subject: RPZ, Grade: 76.6; Subject: KDM, Grade: 63.7; 
+
+Name: Павло Вітков, Group: PK-112, Grades: Subject: German, Grade: 75.9; Subject: Polish, Grade: 57.4; Subject: French, Grade: 95.8; Subject: English, Grade: 56.5; Subject: Chinese, Grade: 65.7; 
+
+Name: Надя Валік, Group: OM-113, Grades: Subject: Chemistry, Grade: 75.9; Subject: PI, Grade: 67.0; Subject: Physiology, Grade: 64.5; Subject: Anatomy, Grade: 88.7; Subject: First Aid, Grade: 88.2; 
+
+Name: Катя Домбрич, Group: SI-111, Grades: Subject: OOP, Grade: 51.3; Subject: OOP, Grade: 86.4; Subject: Math, Grade: 72.5; Subject: Math, Grade: 83.0; Subject: Physics, Grade: 89.8; Subject: RPZ, Grade: 76.2; Subject: KDM, Grade: 66.8; Subject: Physics, Grade: 57.4;
+
+Name: Денис Ярмоловський, Group: OM-113, Grades: Subject: Chemistry, Grade: 95.4; Subject: PI, Grade: 62.6; Subject: Physiology, Grade: 73.7; Subject: Anatomy, Grade: 96.7; Subject: First Aid, Grade: 63.5; 
+
+Name: Роман Холод, Group: PK-112, Grades: Subject: German, Grade: 85.3; Subject: Polish, Grade: 73.2; Subject: French, Grade: 71.0; Subject: English, Grade: 63.0; Subject: Chinese, Grade: 90.9; 
+
+Name: Назар Косик, Group: SI-111, Grades: Subject: OOP, Grade: 56.0; Subject: Math, Grade: 64.4; Subject: Physics, Grade: 93.9; Subject: Physics, Grade: 89.8; Subject: RPZ, Grade: 94.3; Subject: KDM, Grade: 89.1; Subject: Physics, Grade: 57.4;
+
+Name: Юля Павлусів, Group: PK-112, Grades: Subject: German, Grade: 91.6; Subject: Polish, Grade: 57.2; Subject: French, Grade: 93.8; Subject: English, Grade: 63.0; Subject: Chinese, Grade: 82.6; 
+
+Name: Наталя Чопко, Group: OM-113, Grades: Subject: Chemistry, Grade: 58.5; Subject: PI, Grade: 87.2; Subject: Physiology, Grade: 78.9; Subject: Anatomy, Grade: 87.8; Subject: First Aid, Grade: 70.7; 
+
+Name: Віка Гідей, Group: SI-111, Grades: Subject: OOP, Grade: 65.2; Subject: OOP, Grade: 86.4; Subject: Math, Grade: 77.4; Subject: Physics, Grade: 94.3; Subject: RPZ, Grade: 73.5; Subject: KDM, Grade: 96.3; Subject: Physics, Grade: 89.8; 
+
+Name: Руслан Ковальчук, Group: OM-113, Grades: Subject: Chemistry, Grade: 89.1; Subject: PI, Grade: 76.0; Subject: Physiology, Grade: 97.5; Subject: Anatomy, Grade: 65.7; Subject: First Aid, Grade: 72.1; 
+
+Name: Христина Карвацька, Group: PK-112, Grades: Subject: German, Grade: 62.8; Subject: Polish, Grade: 80.7; Subject: French, Grade: 65.5; Subject: English, Grade: 95.0; Subject: Chinese, Grade: 84.8; 
+
+Name: John Adams, Group: SI-111, Grades: Subject: OOP, Grade: 55.0; Subject: OOP, Grade: 65.2; Subject: Math, Grade: 53.1; Subject: Physics, Grade: 62.2; Subject: RPZ, Grade: 83.1; Subject: KDM, Grade: 66.1; , Workplace: workplace1
+
+Name: Nick Smith, Group: SI-111, Grades: Subject: OOP, Grade: 63.5; Subject: Math, Grade: 71.1; Subject: Physics, Grade: 82.6; Subject: RPZ, Grade: 91.4; Subject: KDM, Grade: 56.0; Subject: Physics, Grade: 89.8; , Workplace: workplace2
+
+Name: Thom Johnson, Group: SI-111, Grades: Subject: OOP, Grade: 87.0; Subject: OOP, Grade: 65.2; Subject: Math, Grade: 84.1; Subject: Physics, Grade: 60.9; Subject: RPZ, Grade: 72.0; Subject: KDM, Grade: 64.8; , Workplace: workplace3
+
+Name: Amanda Jonse, Group: PK-112, Grades: Subject: OOP, Grade: 64.6; Subject: Math, Grade: 99.4; Subject: Physics, Grade: 57.4; Subject: RPZ, Grade: 96.0; Subject: KDM, Grade: 65.0; , Workplace: workplace4
+
+Name: Victoria Williams, Group: PK-112, Grades: Subject: OOP, Grade: 52.0; Subject: Math, Grade: 72.2; Subject: Physics, Grade: 55.4; Subject: RPZ, Grade: 53.9; Subject: KDM, Grade: 71.4; , Workplace: workplace5
+
+Name: Emma Brown, Group: OM-113, Grades: Subject: OOP, Grade: 68.9; Subject: OOP, Grade: 65.2; Subject: Math, Grade: 77.9; Subject: Physics, Grade: 76.1; Subject: Physics, Grade: 57.4; Subject: RPZ, Grade: 93.0; Subject: KDM, Grade: 66.7; , Workplace: workplace6
+
